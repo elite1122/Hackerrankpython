@@ -1,1 +1,1 @@
-Here i will sub,mit hackerrank code that i practise.
+Here i will submit hackerrank code that i practise.
